@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Arduino")(type "Legacy")(uri "${KIPRJMOD}/lib/Shields/Shields.lib")(options "")(descr ""))
+  (lib (name "Connector")(type "Legacy")(uri "${KIPRJMOD}/lib/Connector_Automotive/Connector_Automotive.lib")(options "")(descr ""))
+  (lib (name "Misc")(type "Legacy")(uri "${KIPRJMOD}/lib/Misc/Misc.lib")(options "")(descr ""))
+  (lib (name "IC_Automotive")(type "Legacy")(uri "${KIPRJMOD}/lib/IC_Automotive/IC_Automotive.lib")(options "")(descr ""))
+  (lib (name "v0.4.4c-rescue")(type "Legacy")(uri "${KIPRJMOD}/v0.4.4c-rescue.lib")(options "")(descr "")(disabled))
+  (lib (name "v0.4.3d-rescue")(type "KiCad")(uri "${KIPRJMOD}/v0.4.3d-rescue.kicad_sym")(options "")(descr ""))
+)
