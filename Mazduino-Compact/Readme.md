@@ -3,10 +3,10 @@
 
 
 ## Mazduino ECU Schematic v1.1
-[Download Schematic (PDF)](https://github.com/amrikarisma/Mazduino/releases/download/v1.1/schematic.pdf)
+[Download Schematic (PDF)](https://github.com/amrikarisma/Mazduino/releases)
 
 ## Mazduino ECU BOM v1.1
-[Download BOM](https://github.com/amrikarisma/Mazduino/releases/download/v1.1/bom.pdf)
+[Download BOM](https://github.com/amrikarisma/Mazduino/releases)
 ## Changelog
 
 ### v1.0 
