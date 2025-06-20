@@ -1,5 +1,5 @@
 # Mazduino
-*Mazduino Compact* is compatible with firmware from rusEFI and can also be used with Speeduino.  
+*Mazduino ECU* is compatible with firmware from rusEFI and can also be used with Speeduino.  
 For tuning and configuration, you can use the Tuner Studio software.
 
 ## Mazduino ECU Compact
