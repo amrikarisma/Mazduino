@@ -1,4 +1,4 @@
-# Mazduino ECU Mini 6Ch
+# Mazduino Mini 6Ch
 ## Preview
 <table>
   <tr>
