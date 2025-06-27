@@ -42,5 +42,22 @@
 ## Downloads
 - [Download Schematic (PDF)](Schematic.pdf)
 - [Download BOM](BOM.pdf)
+  
+## Changelog
+```
+v1.0
+- Initial Release
+
+v1.1 (latest)
+- Fix USB D+ and D-
+- Add 2 Spare analog input
+- Change AC Switch from Analog Input to Digital Pin ( GND signal )
+
+v1.2 (cooming soon)
+- Replace footprint Capacitor for Input Regulator 5v from 5x5 to 8x6
+- Add low current output for Main relay control
+- Fix DRV8825 schema for rusEFI
+```
+
 
 Will be updated as soon as possible... please wait.
