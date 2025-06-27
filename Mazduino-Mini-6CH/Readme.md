@@ -53,7 +53,7 @@ v1.1 (latest)
 - Add 2 Spare analog input
 - Change AC Switch from Analog Input to Digital Pin ( GND signal )
 
-v1.2 (cooming soon)
+v1.2 (coming soon)
 - Replace footprint Capacitor for Input Regulator 5v from 5x5 to 8x6
 - Add low current output for Main relay control
 - Fix DRV8825 schema for rusEFI
