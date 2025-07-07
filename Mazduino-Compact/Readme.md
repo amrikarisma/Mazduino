@@ -14,3 +14,7 @@
 ### v1.1 
   - Fix Usb C to USB C. Change resistor 5.1k route to CC1 & CC2
   - Fix typo on silkscreen
+### v1.2 
+  - Add Low Current Output for Main Relay
+  - Add Spare Analog Input
+  - Add footprint Jumper
