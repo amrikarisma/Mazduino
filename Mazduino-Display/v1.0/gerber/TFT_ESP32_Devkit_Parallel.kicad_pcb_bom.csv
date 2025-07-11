@@ -1,0 +1,35 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description
+C1,1,10uF,C_1206_3216Metric,,,,smt,"Polarized capacitor, small symbol"
+"C10, C11, C4, C6, C8",5,0.1uF/100nF,C_0805_2012Metric,,,,smt,"Unpolarized capacitor, small symbol"
+"C12, C2, C3, C5, C7",5,22uF,C_0805_2012Metric,,,,smt,"Unpolarized capacitor, small symbol"
+C9,1,100nF,C_0603_1608Metric,,,,smt,Unpolarized capacitor
+"D1, D2",2,SS26,D_SMA,,,,smt,"60V 2A Schottky Diode, SMA"
+D3,1,SP0503BAHT,SOT-143,,,,smt,"TVS Diode Array, 5.5V Standoff, 3 Channels, SOT-143 package"
+J1,1,Conn_01x02_Pin,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,,,,tht,"Generic connector, single row, 01x02, script generated"
+J2,1,JST 4P,JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,,,,tht,"Generic connector, single row, 01x04, script generated"
+J3,1,TFT SPI,PinSocket_1x14_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x14, script generated"
+J5,1,USB_C_Receptacle_USB2.0,USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,,,,smt,USB 2.0-only Type-C Receptacle connector
+J6,1,TFT SD,PinSocket_1x04_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x04, script generated"
+JP1,1,Jumper_2_Open,PinHeader_1x02_P2.54mm_Vertical,,,,tht,"Jumper, 2-pole, open"
+LED1,1,LED,LED_0805_2012Metric,,,,smt,Light emitting diode
+LED2,1,BLUE,LED_0805_2012Metric,,,,smt,Light emitting diode
+LED3,1,GREEN,LED_0805_2012Metric,,,,smt,Light emitting diode
+"Q1, Q2",2,SS8050,SOT-23,,,,smt,"General Purpose NPN Transistor, 1.5A Ic, 25V Vce, SOT-23"
+"R1, R10, R6, R9",4,10K,R_0805_2012Metric,,,,smt,Resistor
+R11,1,4.7K,R_0603_1608Metric,,,,smt,Resistor
+"R12, R13, R17",3,5k1,R_0805_2012Metric,,,,smt,Resistor
+R14,1,120R,R_0805_2012Metric,,,,smt,Resistor
+"R15, R16",2,100R,R_0805_2012Metric,,,,smt,Resistor
+R18,1,560K,R_0805_2012Metric,,,,smt,Resistor
+R2,1,22.1K,R_0805_2012Metric,,,,smt,Resistor
+R3,1,10R,R_0805_2012Metric,,,,smt,Resistor
+R4,1,47.5K,R_0805_2012Metric,,,,smt,Resistor
+R5,1,2K,R_0805_2012Metric,,,,smt,Resistor
+"R7, R8",2,0R,R_0805_2012Metric,,,,smt,Resistor
+"SW1, SW2",2,SW_Push,SW_PUSH_6mm,,,,tht,"Push button switch, generic, two pins"
+U1,1,AMS1117-3.3,SOT-223-3_TabPin2,,,,smt,"1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223"
+U2,1,AMS1117-5.0,SOT-223-3_TabPin2,,,,smt,"1A Low Dropout regulator, positive, 5.0V fixed output, SOT-223"
+U3,1,ESP32-WROOM-32D,ESP32-WROOM-32D,,,,smt,"RF Module, ESP32-D0WD SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, SMD"
+U4,1,CP2102N-Axx-xQFN28,QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm,,,,smt,"USB to UART master bridge, QFN-28"
+U5,1,MCP2551-I-SN,SOIC-8_3.9x4.9mm_P1.27mm,,,,smt,"High-Speed CAN Transceiver, 1Mbps, 5V supply, SOIC-8"
+U6,1,ESP32-DevKitC,ESP32-DevKitC,,,,tht,Development Kit
