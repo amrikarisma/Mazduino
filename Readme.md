@@ -12,7 +12,12 @@ This documentation will be updated as soon as possible.
 *This documentation will be updated soon.
 
 
-## Link
-- https://rusefi.com/
-- https://speeduino.com/home/
-- https://www.tunerstudio.com/index.php/tuner-studio
+## Links
+### Mazduino
+- **Official Website**: https://www.mazduino.com
+- **Documentation & WIKI**: https://wiki.mazduino.com
+
+### Firmware & Software
+- **rusEFI**: https://rusefi.com/
+- **Speeduino**: https://speeduino.com/home/
+- **Tuner Studio**: https://www.tunerstudio.com/index.php/tuner-studio
