@@ -1,0 +1,3 @@
+nextRelease=
+platform=mazduino
+release=development
