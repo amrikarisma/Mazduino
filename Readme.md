@@ -3,7 +3,7 @@
 For tuning and configuration, you can use the Tuner Studio software.
 
 ## Mazduino ECU Compact
-![Assembled Mazduino ECU](Mazduino-Compact/v1.1/assembled.jpeg)
+![Assembled Mazduino ECU](Mazduino-Compact/v2.1/assembled.jpeg)
 This documentation will be updated as soon as possible.
 
 ## Mazduino ECU Mini 6Ch
