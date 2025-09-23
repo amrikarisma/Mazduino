@@ -1,5 +1,5 @@
 # Mazduino Compact
-![Assembled Mazduino ECU](v1.1/assembled.jpeg)
+![Assembled Mazduino ECU](v2.1/assembled.jpeg)
 
 ## Mazduino ECU Schematic v1.1
 [Download Schematic (PDF)](https://github.com/amrikarisma/Mazduino/releases)
