@@ -30,4 +30,7 @@
 - Added direct knock sensor support using an op-amp IC  
 - Supported two types of CAN bus transceivers: MCP2551 or TJA1051T/3  
 - Added a dedicated connector for CAN bus communication  
-- Added a pin header footprint for VBAT, allowing real-time clock backup with a 3.3V battery  
+- Added a pin header footprint for VBAT, allowing real-time clock backup with a 3.3V battery
+
+### v2.2
+- Added high-side MOSFET for 12V switching control (alternator and other components requiring 12V switching)  

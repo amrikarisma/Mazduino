@@ -57,10 +57,20 @@ For tuning and configuration, you can use the Tuner Studio software.
 - Add 2 Spare analog inputs
 - Change AC Switch from Analog Input to Digital Pin (GND signal)
 
-### v1.2 (latest)
+### v1.2
 - Replace footprint Capacitor for Input Regulator 5V from 5x5 to 8x6
 - Add low current output for Main relay control
 - Fix DRV8825 schema for rusEFI
+
+### v1.3
+- Added ETB support
+- Added Knock sensor support
+
+### v1.4 (latest)
+- Added spare inputs to support TPS1, TPS2, PPS1, PPS2
+- Added support for ETB1 and ETB2
+- Motor driver uses 2x TLE9201SG ICs (can be used for Idle Stepper Motor when not used for ETB)
+- Removed DRV8825 module support
 
 ---
 
