@@ -1,11 +1,19 @@
 # Mazduino Compact
 ![Assembled Mazduino ECU](v2.1/assembled.jpeg)
 
-## Mazduino ECU Schematic v1.1
-[Download Schematic (PDF)](https://github.com/amrikarisma/Mazduino/releases)
+Mazduino Compact is compatible with firmware from rusEFI and can also be used with Speeduino.  
+For tuning and configuration, you can use the Tuner Studio software.
 
-## Mazduino ECU BOM v1.1
-[Download BOM](https://github.com/amrikarisma/Mazduino/releases)
+## Downloads
+
+### Latest Version (v2.2)
+- [Download Schematic (PDF)](https://github.com/amrikarisma/Mazduino/blob/main/Mazduino-Compact/v2.2/schematic.pdf)
+- [Interactive BOM v2.2](https://www.mazduino.com/ibom/compact-2-2-ibom.html)
+
+### Other Versions
+- [Interactive BOM v2.0](https://www.mazduino.com/ibom/compact-2-0-ibom.html)
+- [Interactive BOM v1.3](https://www.mazduino.com/ibom/compact-1-3-ibom.html)
+*Interactive BOM for other versions will be available soon*
 
 ## Changelog
 

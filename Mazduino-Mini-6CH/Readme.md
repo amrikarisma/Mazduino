@@ -44,8 +44,13 @@ For tuning and configuration, you can use the Tuner Studio software.
 - Automotive 48-pin Yamaha ECU Connector
 
 ## Downloads
-- [Download Schematic (PDF)](Schematic.pdf)
-- [Download BOM](BOM.pdf)
+
+### Latest Version (v1.4)
+- [Download Schematic (PDF)](https://github.com/amrikarisma/Mazduino/blob/main/Mazduino-Mini-6CH/v1.4/Schematics.pdf)
+- [Interactive BOM v1.4](https://www.mazduino.com/ibom/mini6ch-1-4-ibom.html)
+
+### Other Versions
+- [Interactive BOM v1.2](https://www.mazduino.com/ibom/mini6ch-1-2-ibom.html)
   
 ## Changelog
 
