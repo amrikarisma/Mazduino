@@ -1,4 +1,4 @@
-# Mazduino Lite Edition v0.1
+# Mazduino Lite Edition
 
 Mazduino Lite Edition is a compact ECU designed for **4-cylinder engines with wasted spark ignition or 1-2 cylinder motorcycles with individual ignition control**. All configurations support full sequential injection. This lightweight version provides essential engine control features in a smaller form factor.
 
