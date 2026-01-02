@@ -50,6 +50,7 @@ For tuning and configuration, you can use the Tuner Studio software.
 - [Interactive BOM v1.4](https://www.mazduino.com/ibom/mini6ch-1-4-ibom.html)
 
 ### Other Versions
+- [Interactive BOM v1.3](https://www.mazduino.com/ibom/mini6ch-1-3-ibom.html)
 - [Interactive BOM v1.2](https://www.mazduino.com/ibom/mini6ch-1-2-ibom.html)
   
 ## Changelog
