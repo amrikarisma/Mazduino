@@ -6,11 +6,12 @@ For tuning and configuration, you can use the Tuner Studio software.
 
 ## Downloads
 
-### Latest Version (v2.2)
-- [Download Schematic (PDF)](https://github.com/amrikarisma/Mazduino/blob/main/Mazduino-Compact/v2.2/schematic.pdf)
-- [Interactive BOM v2.2](https://www.mazduino.com/ibom/compact-2-2-ibom.html)
+### Latest Version (v2.3)
+- [Download Schematic (PDF)](https://github.com/amrikarisma/Mazduino/blob/main/Mazduino-Compact/v2.3/schematic.pdf)
+- [Interactive BOM v2.3](https://www.mazduino.com/ibom/compact-2-3-ibom.html)
 
 ### Other Versions
+- [Interactive BOM v2.2](https://www.mazduino.com/ibom/compact-2-2-ibom.html)
 - [Interactive BOM v2.0](https://www.mazduino.com/ibom/compact-2-0-ibom.html)
 - [Interactive BOM v1.3](https://www.mazduino.com/ibom/compact-1-3-ibom.html)
 *Interactive BOM for other versions will be available soon*
@@ -42,3 +43,9 @@ For tuning and configuration, you can use the Tuner Studio software.
 
 ### v2.2
 - Added high-side MOSFET for 12V switching control (alternator and other components requiring 12V switching)  
+
+### v2.3
+- Fixed MCU mapping for 12V battery input and knock sensor input  
+- Optimized component selection and PCB layout for improved reliability and manufacturing efficiency  
+- Added JST connector footprint for usb connector options  
+- Added CR1220 battery holder footprint for real-time clock backup power  
