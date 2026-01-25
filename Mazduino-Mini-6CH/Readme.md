@@ -11,7 +11,7 @@ For tuning and configuration, you can use the Tuner Studio software.
   </tr>
   <tr>
     <td><img src="render/mazduino_base_side.png" alt="3D Render side" width="250"/></td>
-    <td><img src="mazduino-mini-6ch.jpeg" alt="Assembled Mazduino ECU" width="250"/></td>
+    <td><img src="mazduino-mini-6ch-v1.3B.jpeg" alt="Assembled Mazduino ECU" width="250"/></td>
   </tr>
 </table>
 

@@ -7,7 +7,7 @@ For tuning and configuration, you can use the Tuner Studio software.
 A compact and customizable Engine Control Unit (ECU) designed for **4-cylinder engines with full sequential injection and ignition**.
 
 ## Mazduino ECU Mini 6Ch
-![Assembled Mazduino ECU](Mazduino-Mini-6CH/mazduino-mini-6ch.jpeg)
+![Assembled Mazduino ECU](Mazduino-Mini-6CH/mazduino-mini-6ch-v1.3B.jpeg)
 A mini 6-channel version of the Mazduino ECU for **6-cylinder engines with full sequential injection and ignition**.
 
 ## Mazduino ECU Lite Edition
