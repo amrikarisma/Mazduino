@@ -1,6 +1,5 @@
 # Mazduino
-*Mazduino ECU* is compatible with firmware from rusEFI and can also be used with Speeduino.  
-For tuning and configuration, you can use the Tuner Studio software.
+*Mazduino ECU* is built on **STM32** MCU, compatible with **rusEFI**-based firmware — including official **rusEFI**, **epicEFI**, **FomeEFI**, and other rusEFI-based custom firmware. For tuning and configuration, you can use the Tuner Studio software.
 
 ## Mazduino ECU Compact
 ![Assembled Mazduino ECU](Mazduino-Compact/v2.1/assembled.jpeg)
@@ -32,5 +31,4 @@ A wideband oxygen sensor controller that communicates with the ECU via CAN bus f
 
 ### Firmware & Software
 - **rusEFI**: https://rusefi.com/
-- **Speeduino**: https://speeduino.com/home/
 - **Tuner Studio**: https://www.tunerstudio.com/index.php/tuner-studio
